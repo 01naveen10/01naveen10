@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">DevOps Engineer with ~3 years of experience at IBM streamlining CI/CD platforms,
 Kubernetes infrastructure, and cloud-native deployments across AWS, Azure, and
-OpenShift environments.
+OpenShift environments.<br />
 Proven track record of optimizing build performance, leading OpenShift to AKS
 migration, strengthening deployment security, and implementing GitOps-based
 delivery pipelines. Strong expertise in Tekton, Jenkins, ArgoCD, Terraform, Docker,
